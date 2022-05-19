@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 // optizando codigo
 const renderButtons = onClickNumber => {
-    var numbers = [1,2,3,4,5,6,7,8,9,0]
+    var numbers = [7,8,9,4,5,6,1,2,3,0]
     return numbers.map(num => <Button text={num.toString()} clickHandler={onClickNumber} key={num}/>)
 } 
 const Numbers = ({onClickNumber}) => (
