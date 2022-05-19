@@ -1,3 +1,32 @@
+# Introduccion
+Este es un proyecto de practica del curso del prof. Emiliano Ocariz
+# Herramientas utilizadas
+* Node Js
+* VSCode
+* WebPack
+* Babel
+* JS JSX
+* Componente Funcional
+* Consola de debugging
+* Utilizacion de CSS
+* SOLID
+* debugger
+* EMAScript
+* PropTypes
+* DefaultProps
+* Manejo de eventos click
+* Refactor de carpetas (index.js)
+* Funcion Map
+* DRY (Dont Repeat Yourself)
+* useState (hook)
+* Propiedad key
+* Array destructuring
+* Template Literals
+* Utilizacion de expresiones regulares
+* Utilizacion de Lodash
+* Utilizacion de eval (Warning!!)
+* Operador ternario
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
